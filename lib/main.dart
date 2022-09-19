@@ -17,9 +17,6 @@ class MyApp extends StatelessWidget {
 }
 class MyAlert extends StatelessWidget {
 
- // final Color gradientStart = Colors.deepPurple[700];
- // final Color gradientEnd = Colors.purple[500];
-
   @override
   Widget build(BuildContext context) {
 
