@@ -1,6 +1,8 @@
 # flutter_card
 
 A new Flutter project.
+![ss](https://user-images.githubusercontent.com/5539006/191038877-11a28181-4048-4925-bc6f-73def86d7419.png)
+
 
 ## Getting Started
 
